@@ -1,0 +1,3 @@
+Main-class: com/company/Battleground
+Class-Path: Pokemon.jar
+
