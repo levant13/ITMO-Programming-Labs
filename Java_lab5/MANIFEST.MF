@@ -1,0 +1,5 @@
+Main-class: run.App
+Class-Path: gson-2.5.jar
+
+
+
